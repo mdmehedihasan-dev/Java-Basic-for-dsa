@@ -1,5 +1,4 @@
 public class ReverseArray {
-    // Array reverse করার method
     public static void reverse(int arr[]) {
         int start = 0;
         int end = arr.length - 1;
